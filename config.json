@@ -132,6 +132,11 @@
       "api": "https://api.1080zyku.com/inc/apijson.php/",
       "detail": "https://api.1080zyku.com"
     },
+    "ck": {
+      "name": "CK资源",
+      "api": "https://ckzy.me/api.php/provide/vod",
+      "detail": "https://ckzy.me"
+    },
     "uku": {
       "name": "U酷资源",
       "api": "https://api.ukuapi.com/api.php/provide/vod",
@@ -141,6 +146,11 @@
       "name": "U酷资源(备用)",
       "api": "https://api.ukuapi88.com/api.php/provide/vod",
       "detail": "https://api.ukuapi88.com"
+    },
+    "yayazy": {
+      "name": "丫丫点播",
+      "api": "https://cj.yayazy.net/api.php/provide/vod",
+      "detail": "https://cj.yayazy.net"
     },
     "guangsu": {
       "name": "光速资源",
@@ -152,15 +162,38 @@
       "api": "https://collect.wolongzyw.com/api.php/provide/vod",
       "detail": "https://collect.wolongzyw.com"
     },
+    "xmm": {
+      "name": "小猫咪资源",
+      "api": "https://zy.xmm.hk/api.php/provide/vod",
+      "detail": "https://zy.xmm.hk"
+    },
     "wwzy": {
       "name": "旺旺资源",
       "api": "https://api.wwzy.tv/api.php/provide/vod",
       "detail": "https://api.wwzy.tv"
     },
+    "yparse": {
+      "name": "步步高资源",
+      "api": "https://api.yparse.com/api/json"
+    },
+    "niuniu": {
+      "name": "牛牛点播",
+      "api": "https://api.niuniuzy.me/api.php/provide/vod",
+      "detail": "https://api.niuniuzy.me"
+    },
     "bdzy": {
       "name": "百度云资源",
       "api": "https://api.apibdzy.com/api.php/provide/vod",
       "detail": "https://api.apibdzy.com"
+    },
+    "suoni": {
+      "name": "索尼资源",
+      "api": "https://suoniapi.com/api.php/provide/vod"
+    },
+    "huya": {
+      "name": "虎牙资源",
+      "api": "https://www.huyaapi.com/api.php/provide/vod",
+      "detail": "https://www.huyaapi.com"
     },
     "sdzy": {
       "name": "闪电资源",
@@ -169,5 +202,4 @@
     }
   }
 }
-
 
