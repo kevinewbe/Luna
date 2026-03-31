@@ -69,10 +69,6 @@
       "api": "https://api.zuidapi.com/api.php/provide/vod",
       "detail": "https://api.zuidapi.com"
     },
-    "极光4k": {
-      "name": "极光4k",
-      "api": "http://tvbox.vip/lib/drpy2.min.js"
-    },
     "yhzy": {
       "name": "樱花资源",
       "api": "https://m3u8.apiyhzy.com/api.php/provide/vod"
